@@ -5,16 +5,17 @@
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="/assets/css/app.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/script.js/2.0.2/script.min.js" integrity="sha512-UWtTDM6wtl/qutDD6i1JOGZGiEd92dveVzuLl8sMBkMHlOHcbZdexM7ZrKkeaugW7vhqDnWc2pPD/ohEV+BBbg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6YEQ7Q0XRC"></script>
-  <script rel="preload" src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-  <script src="/assets/js/particles.js"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'G-6YEQ7Q0XRC');
-  </script>
+    
+    <link rel="stylesheet" href="/assets/css/constellation.css">
+</head>
+<body>
+    <div id="particles-js"></div> <!-- Particle background -->
+    
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="/assets/js/constellation.js"></script>
+
+</body>
   <style>
     .loader {
       width: 60px;
@@ -45,9 +46,8 @@
   <div class="themesExcluded" style="justify-content: center;align-items: center;display: flex;height: 50vh;">
     <br>
     <span class="loader"></span>
-    <h1 style="font-family:poppins;color:white;font-size:40px;">Processing request...</h1>
+    <h1 style="font-family:poppins;color:white;font-size:40px;">Starting Unblocker...</h1>
   </div>
-  <script src="/assets/js/themes.js"></script>
   <script>
     var nav = document.querySelectorAll('nav');
     nav.forEach(function (navElement) {
