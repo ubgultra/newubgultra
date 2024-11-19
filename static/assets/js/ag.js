@@ -192,7 +192,7 @@ function jstris() {
 }
 
 function twoZeroFourEight() {
-  openAg('https://derpmandev.github.io/unblocked-games/2048', "2048");
+  openAg('https://ubgultra.github.io/3kh0-gms/2048/', "2048");
 }
 
 function p2048() {
@@ -205,11 +205,11 @@ function rbx() {
 }
 
 function slope() {
-  openAg('https://derpmandev.github.io/unblocked-games/slope', "Slope");
+  openAg('https://ubgultra.github.io/3kh0-gms/slope', "Slope");
 }
 
 function subway() {
-  openAg('https://derpman.codeberg.page/echo/@main/subway-surfers/index.html', "Subway Surfers");
+  openAg('https://ubgultra.github.io/3kh0-gms/subway-surfers-ny/', "Subway Surfers");
 }
 
 function territorial() {
@@ -303,15 +303,15 @@ function motoX3M() {
 }
 
 function basketRandom() {
-  openAg('https://files.twoplayergames.org/files/games/other/Basket_Random/index.html');
+  openAg('https://www.crazygames.com/embed/basket-random');
 }
 
 function suikaWatermelon() {
-  openAg('https://watermelongame.com');
+  openAg('https://www.culinaryschools.org/kids-games/watermelon-game/game.php');
 }
 
 function timeShooter3() {
-  openAg('https://www.twoplayergames.org/embed/time-shooter-2');
+  openAg('https://www.crazygames.com/embed/time-shooter-3-swat');
 }
 
 function thereIsNoGame() {
@@ -319,7 +319,7 @@ function thereIsNoGame() {
 }
 
 function ovo() {
-  openAg('https://ovo.onrender.com/versions/1.4.4b/index.html');
+  openAg('https://ubgultra.github.io/3kh0-gms/ovo');
 }
 
 function awesomeTanksTwo() {
@@ -327,7 +327,7 @@ function awesomeTanksTwo() {
 }
 
 function templeRun() {
-  openAg('https://burgerbounty.github.io/s8/temple-run-2/');
+  openAg('https://ubgultra.github.io/3kh0-gms/temple-run-2/');
 }
 
 function driveMad() {
@@ -343,7 +343,7 @@ function kickTheBuddy() {
 }
 
 function driftHunters() {
-  openAg('https://webglmath.github.io/drift-hunters/index.html');
+  openAg('https://www.hoodamath.com/mobile/games/drift-hunters/game.html?nocheckorient=1');
 }
 
 function fBwG1() {
@@ -363,5 +363,5 @@ function crowdRun3d() {
 }
 
 function dogeMiner2() {
-  openAg('https://dogeminer2.com');
+  openAg('https://realben9.github.io/dm2sc/play/');
 }
