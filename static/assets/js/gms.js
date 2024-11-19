@@ -51,12 +51,6 @@ function addGms(name, imageUrl, onClickFunction, width, height) {
 }
 
 var gms = {
-  // All-Time favorites
-  'GeForce Now': { imageUrl: "/assets/img/geforcenow.webp", onClick: geforce },
-  'Roblox': { imageUrl: "/assets/img/roblox.webp", onClick: rbx },
-  // Shooter Games
-  '1v1.lol': { imageUrl: "/assets/img/1v1.webp", onClick: onevone },
-  'Awesome Tanks 2': { imageUrl: "/assets/img/atanks2.webp", onClick: awesomeTanksTwo, height: 130 },
   'Florr.io': { imageUrl: "/assets/img/florr.webp", onClick: florr },
   'Krunker.io': { imageUrl: "/assets/img/krunker.webp", onClick: krunker },
   'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
@@ -67,7 +61,6 @@ var gms = {
   // Ball/Platformer Games
   'Slope': { imageUrl: "/assets/img/slope.webp", onClick: slope },
   'Boxel Rebound': { imageUrl: "/assets/img/boxelrebound.webp", onClick: brebound, height: 130 },
-  'Run 3': { imageUrl: "/assets/img/run3.webp", onClick: run3 },
   'Fireboy and Watergirl': { imageUrl: "/assets/img/fireboy-and-watergirl.webp", onClick: fBwG1, height: 130 },
   'Stickman Hook': { imageUrl: "/assets/img/stickmanhook.webp", onClick: stickManHook, height: 130 },
   // Domination Games
@@ -89,18 +82,13 @@ var gms = {
   'Bitlife': { imageUrl: "/assets/img/bitlife.webp", onClick: bitlife, height: 130 },
   '2048 ': { imageUrl: "/assets/img/2048.webp", onClick: twoZeroFourEight, height: 130 },
   'Pokemon 2048': { imageUrl: "/assets/img/p2048.webp", onClick: p2048, height: 130 },
-  'Chess.com': { imageUrl: "/assets/img/chess.webp", onClick: chess },
-  'Jstris': { imageUrl: "/assets/img/jstris.webp", onClick: jstris },
+  'Chess': { imageUrl: "/assets/img/chess.webp", onClick: chess },
   'Watermelon Game (Suika)': { imageUrl: "/assets/img/suika.webp", onClick: suikaWatermelon, height: 130 },
   // Idle/Clicking Games
   'Doge Miner 2': { imageUrl: "/assets/img/doge-miner-2.webp", onClick: dogeMiner2 },
   'Cookie Clicker': { imageUrl: "/assets/img/cookieclicker.webp", onClick: cookieClicker },
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
-  'Monkey Mart': { imageUrl: "/assets/img/monkeymart.webp", onClick: monkeyMart },
   // Sandbox/Arcade Games
-  'Eaglercraft (1.5)': { imageUrl: "/assets/img/eaglercraft.webp", onClick: eaglerCraft15, height: 130 },
-  'Eaglercraft (1.8)': { imageUrl: "/assets/img/eaglercraft.webp", onClick: eaglerCraft18, height: 130 },
-  'Kick The Buddy': { imageUrl: "/assets/img/super-buddy-kick.webp", onClick: kickTheBuddy, height: 130 },
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
 };
 
