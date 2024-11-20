@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    min-height: 100vh; /* Make sure the footer stays at the bottom */
+    padding: 20px;
+}
+
+.transparent-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.footer-left {
+    /* Left side styles */
+}
+
+.footer-right {
+    /* Right side styles */
+}
+
+.request-games-link {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid white; /* Optional: add a border */
+    border-radius: 5px; /* Optional: rounded corners */
+    transition: background-color 0.3s, color 0.3s; /* Add transition for hover effect */
+}
+
+.request-games-link:hover {
+    background-color: white; /* Change background on hover */
+    color: black; /* Change text color on hover */
+}
