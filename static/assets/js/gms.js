@@ -90,6 +90,16 @@ var gms = {
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
+  // 3kh0 games
+  '1': { imageUrl: "https://lh4.googleusercontent.com/Ih1oHzV6EJI2x98na01dIm1xb4S-hteBYD9TNY3Mn579sZ-Sx7EA4Tmbznv_dl-wHsJ_Gf8S42NoHCruUD32DA=w1280", onClick: one },
+  '10 minutes till dawn': { imageUrl: "https://lh6.googleusercontent.com/X9lRUyljYC7rxr4IWvFk-IYlye1qlzi5c2zQT6lOUPtrCjRfkzEV1hEOF3GijLq1ZbV9ZSANDoEBuyCtIlhJTuI=w1280", onClick: tenminutes },
+  '100 player pong': { imageUrl: "https://lh4.googleusercontent.com/YBFVh9wvcPYkHE-YXGETO22IJHGZTpSs1Arc7XfakewdJpMgSHk27cJ6pZj6lv4XCi4BbAK71hJbELKM5g8xdykDwiux_JhpyGJzrQmzYx9-LWFpw0Zr41MVDeCZbRqOeg=w1280", onClick: onehundredpong },
+  '2048 Multitask': { imageUrl: "https://lh4.googleusercontent.com/4iahJX3D8TIM-P1UAG-C2MNl0c2rh8IvQ357VGCP9U0ZKxfF2uts78QUyn9l16roqmp5RCSZPCSVoXv3pJpVCDfbhRZ3cGGgH6dtMBKMQydgpx9VIx12JSFTPIi2O1LlTQ=w1280", onClick: twoZeroFourEightMulti },
+  '9007199254740992': { imageUrl: "https://lh6.googleusercontent.com/AXb9n0whsPAT0ycig0xFUDwVA1QLVezoSNAC9LfE27CCQPa033TLOTPGjuKG4m_Jx7jgoyAjt6Kqp2_Ct3iS3YM=w1280", onClick: longNumber },
+  'DogeMiner': { imageUrl: "https://lh4.googleusercontent.com/dufLyiPapzNyJnSyrv0Ev-lATuEdF4uiIayUU0WYnwf5Ifz-GDYKqQTsdTrWUCPr6lR2tZd6CK5CFTQeRdVe2JA=w1280", onClick: dogeMiner },
+  'HexGL': { imageUrl: "https://lh3.googleusercontent.com/WvBSZ8KNL1MTdayz0Pjkic3nSNR2tPLb5ADZwBfa_N_49VNZ9EbG3PO0mcHO2YAgid3oMg6TnZyWorX2lAlCCY8=w1280", onClick: hexGL },
+  'Offline Paradise': { imageUrl: "https://lh5.googleusercontent.com/y6l_I5O-4GU1b74KYCozKcSFNQVCQJ4V0Ro_dth2omElWO7iDFPHX6npLSFc2p2C_C644bw0pvEGJ0pgtjrrep4=w1280", onClick: offlineParadise },
+  'A Dance of Fire and Ice': { imageUrl: "https://lh5.googleusercontent.com/StieUI8OZO-njxfk4mCoHsfbG-HZJBUE_8N-ZtBzp3zC9C47DfbluynZy4Eo65H4uQb2TLHBsqKAt0C8ephIUKIiC-Xlkkhp4DEkgPbtm37Lesh63ouAQrpP6ghyYPRsIg=w1280", onClick: danceIceFire },  
 };
 
 for (var gmsName in gms) {
