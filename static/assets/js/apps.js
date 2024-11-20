@@ -51,7 +51,7 @@ function addApp(name, imageUrl, onClickFunction, width, height) {
 }
 
 var apps = {
-  Unblocked Google: { imageUrl: "/assets/img/google-icon.webp", onClick: google },
+  Google: { imageUrl: "/assets/img/google-icon.webp", onClick: google },
   ChatGPT: { imageUrl: "/assets/img/gpt.webp", onClick: gpt },
   'CoolMath': { imageUrl: "/assets/img/coolmathgames.webp", onClick: cmg },
   CrazyGames: { imageUrl: "/assets/img/crazygames.webp", onClick: crazygms },
