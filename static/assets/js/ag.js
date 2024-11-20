@@ -365,3 +365,39 @@ function crowdRun3d() {
 function dogeMiner2() {
   openAg('https://realben9.github.io/dm2sc/play/');
 }
+
+function one() {
+  openAg('https://ubgultra.github.io/3kh0-gms/1/');
+}
+
+function tenminutes() {
+  openAg('https://ubgultra.github.io/3kh0-gms/10-minutes-till-dawn/');
+}
+
+function onehundredpong() {
+  openAg('https://ubgultra.github.io/3kh0-gms/100ng/');
+}
+
+function twoZeroFourEightMulti() {
+  openAg('https://ubgultra.github.io/3kh0-gms/2048-multitask/');
+}
+
+function longNumber() {
+  openAg('https://ubgultra.github.io/3kh0-gms/9007199254740992/');
+}
+
+function dogeMiner() {
+  openAg('https://ubgultra.github.io/3kh0-gms/DogeMiner/');
+}
+
+function hexGL() {
+  openAg('https://ubgultra.github.io/3kh0-gms/HexGL/');
+}
+
+function offlineParadise() {
+  openAg('https://ubgultra.github.io/3kh0-gms/OfflineParadise/');
+}
+
+function danceIceFire() {
+  openAg('https://ubgultra.github.io/3kh0-gms/a-dance-of-fire-and-ice/');
+}
