@@ -99,7 +99,7 @@ var gms = {
   'DogeMiner': { imageUrl: "https://i.ibb.co/9W41cwk/image.png", onClick: dogeMiner },
   'HexGL': { imageUrl: "https://i.ibb.co/YZ77JM7/image.png", onClick: hexGL },
   'Offline Paradise': { imageUrl: "https://i.ibb.co/TH7XQnm/image.png", onClick: offlineParadise },
-  'A Dance of Fire and Ice': { imageUrl: "https://ibb.co/r0CHSmd", onClick: danceIceFire },  
+  'A Dance of Fire and Ice': { imageUrl: "https://i.ibb.co/zxyZYr6/image.png", onClick: danceIceFire },  
 };
 
 for (var gmsName in gms) {
