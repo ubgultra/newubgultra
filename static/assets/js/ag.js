@@ -387,7 +387,7 @@ function dogeMiner() {
 }
 
 function hexGL() {
-  openAg('https://ubgultra.github.io/3kh0-gms/HexGL/');
+  window.location.href = "/assets/gms/hexgl.html"; // Replace with your desired URL
 }
 
 function offlineParadise() {
