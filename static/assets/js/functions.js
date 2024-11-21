@@ -118,7 +118,7 @@ function tabCloak() {
 
 
 function disableTabCloak() {
-  var newTitle = 'Doge | V4';
+  var newTitle = 'UBG Ultra 4';
   var newIcon = '/assets/img/doge.jpg';
 
   localStorage.setItem('tabTitle', newTitle);
