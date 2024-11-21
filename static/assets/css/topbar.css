@@ -42,3 +42,9 @@ body {
     background-color: white; /* Change background color to white on hover */
     color: black; /* Change text color to black on hover */
 }
+
+.middle-text {
+    color: white; /* Text color */
+    font-size: 16px; /* Text size */
+    margin: 0 20px; /* Space around text */
+}
