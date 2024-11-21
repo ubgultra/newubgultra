@@ -447,15 +447,15 @@ function backrooms() {
 }
 
 function badicecream() {
-  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream-2/');
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream/');
 }
 
 function badicecreamtwo() {
-  openAg('https://ubgultra.github.io/3kh0-gms/avalanche/');
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream-2/');
 }
 
 function badicecreamthree() {
-  openAg('https://ubgultra.github.io/3kh0-gms/avalanche/');
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream-3/');
 }
 
 function retrobowlcollege() {
