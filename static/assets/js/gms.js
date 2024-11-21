@@ -51,8 +51,6 @@ function addGms(name, imageUrl, onClickFunction, width, height) {
 }
 
 var gms = {
-  'Florr.io': { imageUrl: "/assets/img/florr.webp", onClick: florr },
-  'Krunker.io': { imageUrl: "/assets/img/krunker.webp", onClick: krunker },
   'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
   // Sport Games
   'Retro Bowl': { imageUrl: "/assets/img/retro.webp", onClick: rBowl },
