@@ -13,52 +13,43 @@
 
   gtag('config', 'G-G1D4JNB5QQ');
 </script>
-  
-<style>
-body, html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.hero-image {
-  background-image: url("https://i.ibb.co/v32TVdJ/output-onlinegiftools-5.gif");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-.hero-text {
-  text-align: center;
-  position: absolute;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-.hero-text button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 10px 25px;
-  color: black;
-  background-color: #c76ded;
-  text-align: center;
-  cursor: pointer;
-  border: 5px solid black;
-  border-color: #58c8f5;
-  border-radius: 12px;
-}
-
-.hero-text button:hover {
-  background-color: #555;
-  color: white;
-}
-</style>
+<head>
+    <style>
+        body {
+            transition: background-image 0.5s ease;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
 </head>
+<body>
+
+    <script>
+        const images = [
+            'https://i.ibb.co/WnbHG7W/output-onlinegiftools-6.gif',
+            'https://i.ibb.co/zmZ1nTr/output-onlinegiftools-7.gif',
+            'https://i.ibb.co/jGjnJM4/output-onlinegiftools-8.gif',
+            'https://i.ibb.co/gT8cTQz/output-onlinegiftools-9.gif',
+            'https://i.ibb.co/v32TVdJ/output-onlinegiftools-5.gif'
+        ];
+
+        function setRandomBackground() {
+            // Select a random image from the array
+            const randomIndex = Math.floor(Math.random() * images.length);
+            const selectedImage = images[randomIndex];
+
+            // Set the selected image as the background
+            document.body.style.backgroundImage = `url(${selectedImage})`;
+            document.body.style.backgroundSize = 'cover';
+            document.body.style.backgroundPosition = 'center';
+        }
+
+        // Initialize the random background on page load
+        window.onload = setRandomBackground;
+
+    </script>
+
+</body>
 <body>
 
 <div class="hero-image">
