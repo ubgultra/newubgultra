@@ -322,10 +322,6 @@ function ovo() {
   openAg('https://ubgultra.github.io/3kh0-gms/ovo');
 }
 
-function awesomeTanksTwo() {
-  openAg('https://just-fall.github.io/j4/awesome-tanks-2/');
-}
-
 function templeRun() {
   openAg('https://ubgultra.github.io/3kh0-gms/temple-run-2/');
 }
@@ -400,4 +396,68 @@ function offlineParadise() {
 
 function danceIceFire() {
   window.location.href = "/assets/gms/dancefireice.html"; // Replace with your desired URL
+}
+
+function achievementUnlocked() {
+  openAg('https://ubgultra.github.io/3kh0-gms/achievementunlocked/');
+}
+
+function adrenalineChallenge() {
+  openAg('https://ubgultra.github.io/3kh0-gms/adrenalinechallenge/');
+}
+
+function adventureDrivers() {
+  openAg('https://ubgultra.github.io/3kh0-gms/adventure-drivers/');
+}
+
+function agesofconflict() {
+  window.location.href = "/assets/gms/agesofconflict.html";
+}
+
+function alienHominid() {
+  openAg('https://ubgultra.github.io/3kh0-gms/alienhominid/');
+}
+
+function amidsttheclouds() {
+  openAg('https://ubgultra.github.io/3kh0-gms/amidst-the-clouds/');
+}
+
+function angrySharks() {
+  openAg('https://ubgultra.github.io/3kh0-gms/angry-sharks/');
+}
+
+function aquaparkSlides() {
+  openAg('https://ubgultra.github.io/3kh0-gms/aquapark-slides/');
+}
+
+function astray() {
+  openAg('https://ubgultra.github.io/3kh0-gms/astray/');
+}
+
+function avalanche() {
+  openAg('https://ubgultra.github.io/3kh0-gms/avalanche/');
+}
+
+function awesomeTanksTwo() {
+  openAg('https://ubgultra.github.io/3kh0-gms/awesometanks2/');
+}
+
+function backrooms() {
+  window.location.href = "/assets/gms/backrooms.html";
+}
+
+function badicecream() {
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream-2/');
+}
+
+function badicecreamtwo() {
+  openAg('https://ubgultra.github.io/3kh0-gms/avalanche/');
+}
+
+function badicecreamthree() {
+  openAg('https://ubgultra.github.io/3kh0-gms/avalanche/');
+}
+
+function retrobowlcollege() {
+  openAg('https://ethonion10.neocities.org/');
 }
