@@ -306,6 +306,10 @@ function suikaWatermelon() {
   openAg('https://www.culinaryschools.org/kids-games/watermelon-game/game.php');
 }
 
+function slicemaster() {
+  openAg('https://www.coolmathgames.com/0-slice-master/play', "Master Of Slicing");
+}
+
 function timeShooter3() {
   openAg('https://www.crazygames.com/embed/time-shooter-3-swat');
 }
