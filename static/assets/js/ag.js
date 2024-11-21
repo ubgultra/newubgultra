@@ -371,7 +371,7 @@ function one() {
 }
 
 function tenminutes() {
-  openAg('https://ubgultra.github.io/3kh0-gms/10-minutes-till-dawn/');
+  window.location.href = "/assets/gms/10minutes.html"; // Replace with your desired URL
 }
 
 function onehundredpong() {
@@ -399,5 +399,5 @@ function offlineParadise() {
 }
 
 function danceIceFire() {
-  openAg('https://ubgultra.github.io/3kh0-gms/a-dance-of-fire-and-ice/');
+  window.location.href = "/assets/gms/danceicefire.html"; // Replace with your desired URL
 }
