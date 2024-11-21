@@ -56,6 +56,7 @@ var gms = {
   'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
   // Sport Games
   'Retro Bowl': { imageUrl: "/assets/img/retro.webp", onClick: rBowl },
+  'Retro Bowl College': { imageUrl: "https://i.ibb.co/H27wPsW/image.png", onClick: retrobowlcollege },
   'Basket Random': { imageUrl: "/assets/img/basketrandom.webp", onClick: basketRandom, height: 130 },
   'BasketBros.io': { imageUrl: "/assets/img/basketbros.webp", onClick: basketBros },
   // Ball/Platformer Games
@@ -90,7 +91,7 @@ var gms = {
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
-  // 3kh0 games
+  // 3kh0 games batch 1
   '1': { imageUrl: "https://i.ibb.co/W6Bx2vF/image.png", onClick: one },
   '10 minutes till dawn': { imageUrl: "https://i.ibb.co/mS5JYSr/6-KPt-OADP4q-Xnqcv-QKCHTTUb-TCm-Ut-QYj8wvs3-PNL1x-S70-O0tn-Xk-EZ0zm0-D3-Np-On-Qo2-Il-x5ce-Ae-Sps9-ZZ.png", onClick: tenminutes },
   '100 Player Pong': { imageUrl: "https://i.ibb.co/16TVm46/image.png", onClick: onehundredpong },
@@ -100,6 +101,24 @@ var gms = {
   'HexGL': { imageUrl: "https://i.ibb.co/YZ77JM7/image.png", onClick: hexGL },
   'Offline Paradise': { imageUrl: "https://i.ibb.co/TH7XQnm/image.png", onClick: offlineParadise },
   'A Dance of Fire and Ice': { imageUrl: "https://i.ibb.co/zxyZYr6/image.png", onClick: danceIceFire },  
+  //3kh0 games batch 2
+  'Achievement Unlocked': { imageUrl: "https://i.ibb.co/zZ9JNM0/image.png", onClick: achievementUnlocked }, 
+  'Adrenaline Challenge': { imageUrl: "https://i.ibb.co/fNnJJZ7/image.png", onClick: adrenalineChallenge }, 
+  'Adventure Drivers': { imageUrl: "https://i.ibb.co/L9cp8dH/image.png", onClick: adventureDrivers }, 
+  'Ages Of Conflict': { imageUrl: "https://i.ibb.co/Dr8Pt1h/image.png", onClick: agesofconflict }, 
+  'Alien Hominid': { imageUrl: "https://i.ibb.co/Z1d7vpv/image.png", onClick: alienHominid }, 
+  'Amidst The Clouds': { imageUrl: "https://i.ibb.co/mvPLsq9/image.png", onClick: amidsttheclouds }, 
+  'Angry Sharks': { imageUrl: "https://i.ibb.co/fNtvpW2/image.png", onClick: angrySharks }, 
+  'Aquapark Slides': { imageUrl: "https://i.ibb.co/njrBWbz/image.png", onClick: aquaparkSlides }, 
+  'Astray': { imageUrl: "https://i.ibb.co/HPRtXkX/image.png", onClick: astray }, 
+  'Avalanche': { imageUrl: "https://i.ibb.co/z4QbgqF/image.png", onClick: avalanche },
+  'Awesome Tanks 2': { imageUrl: "https://i.ibb.co/rMByH4X/image.png", onClick: awesomeTanksTwo },
+  'Backrooms': { imageUrl: "https://i.ibb.co/54v2HQh/image.png", onClick: backrooms },
+  'Bad Ice Cream': { imageUrl: "https://i.ibb.co/fXzxhdf/image.png", onClick: badicecream },
+  'Bad Ice Cream 2': { imageUrl: "https://i.ibb.co/TkgsnpY/image.png", onClick: badicecreamtwo },
+  'Bad Ice Cream 3': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: badicecreamthree },
+  
+  
 };
 
 for (var gmsName in gms) {
