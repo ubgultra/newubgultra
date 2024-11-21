@@ -399,5 +399,5 @@ function offlineParadise() {
 }
 
 function danceIceFire() {
-  window.location.href = "/assets/gms/danceicefire.html"; // Replace with your desired URL
+  window.location.href = "/assets/gms/dancefireice.html"; // Replace with your desired URL
 }
