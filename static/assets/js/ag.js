@@ -216,10 +216,6 @@ function territorial() {
   openAg('https://territorial.io', "Territorial");
 }
 
-function florr() {
-  openAg('https://florr.io' "Florrio");
-}
-
 function cookieClicker() {
   openAg('https://orteil.dashnet.org/cookieclicker', "CookieClicker");
 }
