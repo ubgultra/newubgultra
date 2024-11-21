@@ -93,7 +93,7 @@ var gms = {
   // 3kh0 games
   '1': { imageUrl: "https://i.ibb.co/W6Bx2vF/image.png", onClick: one },
   '10 minutes till dawn': { imageUrl: "https://i.ibb.co/mS5JYSr/6-KPt-OADP4q-Xnqcv-QKCHTTUb-TCm-Ut-QYj8wvs3-PNL1x-S70-O0tn-Xk-EZ0zm0-D3-Np-On-Qo2-Il-x5ce-Ae-Sps9-ZZ.png", onClick: tenminutes },
-  '100 player pong': { imageUrl: "https://i.ibb.co/16TVm46/image.png, onClick: onehundredpong },
+  '100 Player Pong': { imageUrl: "https://i.ibb.co/16TVm46/image.png", onClick: onehundredpong },
   '2048 Multitask': { imageUrl: "https://i.ibb.co/PMR8D7Q/image.png", onClick: twoZeroFourEightMulti },
   '9007199254740992': { imageUrl: "https://i.ibb.co/4pHnth9/eldf-Gw-Oeh-Do-B6-ATGRow8q-Jw-BZA6edaan-ND72-N3-ANoqbqec7-d-Rz3c3gz-QBr-M7a6u-J0-AJ5j-I3i-Yvw7hgv-PS.png", onClick: longNumber },
   'DogeMiner': { imageUrl: "https://i.ibb.co/9W41cwk/image.png", onClick: dogeMiner },
