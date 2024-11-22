@@ -307,7 +307,7 @@ function suikaWatermelon() {
 }
 
 function slicemaster() {
-  openAg('/assets/gms/slicemaster.html', "Master Of Slicing");
+  openAg('https://ubgultra.vercel.app/assets/gms/slicemaster.html', "Master Of Slicing");
 }
 
 function timeShooter3() {
