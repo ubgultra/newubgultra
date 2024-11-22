@@ -77,6 +77,7 @@ var gms = {
   'Drift Hunters': { imageUrl: "/assets/img/drifthunters.webp", onClick: driftHunters },
   'Drive Mad': { imageUrl: "/assets/img/drive-mad.webp", onClick: driveMad },
   'Moto X3M': { imageUrl: "/assets/img/motox3m.webp", onClick: motoX3M },
+  'Snow Rider 3D': { imageUrl: "https://i.ibb.co/HxZc7qP/image.png", onClick: snowRider },  
   // Brain Games
   'Bitlife': { imageUrl: "/assets/img/bitlife.webp", onClick: bitlife, height: 130 },
   '2048 ': { imageUrl: "/assets/img/2048.webp", onClick: twoZeroFourEight, height: 130 },
