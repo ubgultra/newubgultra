@@ -307,7 +307,7 @@ function suikaWatermelon() {
 }
 
 function slicemaster() {
-  openAg('https://www.coolmathgames.com/0-slice-master/play', "Master Of Slicing");
+  openAg('/assets/gms/slicemaster.html', "Master Of Slicing");
 }
 
 function timeShooter3() {
