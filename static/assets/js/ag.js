@@ -318,6 +318,10 @@ function thereIsNoGame() {
   openAg('https://23azostore.github.io/s/there-is-no-game/');
 }
 
+function snowRider() {
+  openAg('https://images-opensocial.googleusercontent.com/gadgets/ifr?container=ig&url=https://cdn.jsdelivr.net/gh/mind4ur/debugactions@6e97a528bfcdd0623e0cd99ad352baebf47a6b70/sr3d2.xml');
+}
+
 function ovo() {
   openAg('https://ubgultra.github.io/3kh0-gms/ovo');
 }
