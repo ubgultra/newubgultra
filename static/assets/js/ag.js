@@ -365,3 +365,103 @@ function crowdRun3d() {
 function dogeMiner2() {
   openAg('https://dogeminer2.com');
 }
+
+function one() {
+  openAg('https://ubgultra.github.io/3kh0-gms/1/');
+}
+
+function tenminutes() {
+  window.location.href = "/assets/gms/10minutes.html"; // Replace with your desired URL
+}
+
+function onehundredpong() {
+  openAg('https://ubgultra.github.io/3kh0-gms/100ng/');
+}
+
+function twoZeroFourEightMulti() {
+  openAg('https://ubgultra.github.io/3kh0-gms/2048-multitask/');
+}
+
+function longNumber() {
+  openAg('https://ubgultra.github.io/3kh0-gms/9007199254740992/');
+}
+
+function dogeMiner() {
+  openAg('https://ubgultra.github.io/3kh0-gms/DogeMiner/');
+}
+
+function hexGL() {
+  window.location.href = "/assets/gms/hexgl.html"; // Replace with your desired URL
+}
+
+function offlineParadise() {
+  openAg('https://ubgultra.github.io/3kh0-gms/OfflineParadise/');
+}
+
+function danceIceFire() {
+  window.location.href = "/assets/gms/dancefireice.html"; // Replace with your desired URL
+}
+
+function achievementUnlocked() {
+  openAg('https://ubgultra.github.io/3kh0-gms/achievementunlocked/');
+}
+
+function adrenalineChallenge() {
+  openAg('https://ubgultra.github.io/3kh0-gms/adrenalinechallenge/');
+}
+
+function adventureDrivers() {
+  openAg('https://ubgultra.github.io/3kh0-gms/adventure-drivers/');
+}
+
+function agesofconflict() {
+  window.location.href = "/assets/gms/agesofconflict.html";
+}
+
+function alienHominid() {
+  openAg('https://ubgultra.github.io/3kh0-gms/alienhominid/');
+}
+
+function amidsttheclouds() {
+  openAg('https://ubgultra.github.io/3kh0-gms/amidst-the-clouds/');
+}
+
+function angrySharks() {
+  openAg('https://ubgultra.github.io/3kh0-gms/angry-sharks/');
+}
+
+function aquaparkSlides() {
+  openAg('https://ubgultra.github.io/3kh0-gms/aquapark-slides/');
+}
+
+function astray() {
+  openAg('https://ubgultra.github.io/3kh0-gms/astray/');
+}
+
+function avalanche() {
+  openAg('https://ubgultra.github.io/3kh0-gms/avalanche/');
+}
+
+function awesomeTanksTwo() {
+  openAg('https://ubgultra.github.io/3kh0-gms/awesometanks2/');
+}
+
+function backrooms() {
+  window.location.href = "/assets/gms/backrooms.html";
+}
+
+function badicecream() {
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream/');
+}
+
+function badicecreamtwo() {
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream-2/');
+}
+
+function badicecreamthree() {
+  openAg('https://ubgultra.github.io/3kh0-gms/bad-ice-cream-3/');
+}
+
+function retrobowlcollege() {
+  openAg('https://ubgultra.vercel.app/assets/gms/retrobowlcollege.html');
+}
