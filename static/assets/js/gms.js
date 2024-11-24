@@ -51,8 +51,9 @@ function addGms(name, imageUrl, onClickFunction, width, height) {
 }
 
 var gms = {
+  'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
+  // Sport Games
   'Retro Bowl': { imageUrl: "/assets/img/retro.webp", onClick: rBowl },
-  'Retro Bowl College': { imageUrl: "https://i.ibb.co/H27wPsW/image.png", onClick: retrobowlcollege },
   'Basket Random': { imageUrl: "/assets/img/basketrandom.webp", onClick: basketRandom, height: 130 },
   'BasketBros.io': { imageUrl: "/assets/img/basketbros.webp", onClick: basketBros },
   // Ball/Platformer Games
@@ -75,7 +76,7 @@ var gms = {
   'Drift Hunters': { imageUrl: "/assets/img/drifthunters.webp", onClick: driftHunters },
   'Drive Mad': { imageUrl: "/assets/img/drive-mad.webp", onClick: driveMad },
   'Moto X3M': { imageUrl: "/assets/img/motox3m.webp", onClick: motoX3M },
-  'Snow Rider 3D': { imageUrl: "https://i.ibb.co/FbCvThz/image.png", onClick: snowRider },  
+  'Snow Rider 3D': { imageUrl: "https://i.ibb.co/FbCvThz/image.png", onClick: snowRider },
   // Brain Games
   'Bitlife': { imageUrl: "/assets/img/bitlife.webp", onClick: bitlife, height: 130 },
   '2048 ': { imageUrl: "/assets/img/2048.webp", onClick: twoZeroFourEight, height: 130 },
@@ -88,7 +89,6 @@ var gms = {
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
-  'Slice Master': { imageUrl: "https://i.ibb.co/64Bk7T4/image.png", onClick: slicemaster },  
   // 3kh0 games batch 1
   '1': { imageUrl: "https://i.ibb.co/W6Bx2vF/image.png", onClick: one },
   '10 minutes till dawn': { imageUrl: "https://i.ibb.co/mS5JYSr/6-KPt-OADP4q-Xnqcv-QKCHTTUb-TCm-Ut-QYj8wvs3-PNL1x-S70-O0tn-Xk-EZ0zm0-D3-Np-On-Qo2-Il-x5ce-Ae-Sps9-ZZ.png", onClick: tenminutes },
@@ -115,8 +115,6 @@ var gms = {
   'Bad Ice Cream': { imageUrl: "https://i.ibb.co/fXzxhdf/image.png", onClick: badicecream },
   'Bad Ice Cream 2': { imageUrl: "https://i.ibb.co/TkgsnpY/image.png", onClick: badicecreamtwo },
   'Bad Ice Cream 3': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: badicecreamthree },
-  
-  
 };
 
 for (var gmsName in gms) {
