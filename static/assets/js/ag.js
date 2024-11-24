@@ -469,3 +469,11 @@ function retrobowlcollege() {
 function snowRider() {
   openAg('https://www.hoodamath.com/mobile/games/snow-rider-3d/game.html?nocheckorient=1');
 }
+
+function blockBlast() {
+  openAg('https://ubgultra.vercel.app/assets/gms/blockblast.html');
+}
+
+function worldbox() {
+  openAg('https://ubgultra.vercel.app/assets/gms/worldbox.html');
+}
