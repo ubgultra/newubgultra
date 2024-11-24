@@ -51,14 +51,6 @@ function addGms(name, imageUrl, onClickFunction, width, height) {
 }
 
 var gms = {
- // All-Time favorites
-  'GeForce Now': { imageUrl: "/assets/img/geforcenow.webp", onClick: geforce },
-  'Roblox': { imageUrl: "/assets/img/roblox.webp", onClick: rbx },
-  // Shooter Games
-  '1v1.lol': { imageUrl: "/assets/img/1v1.webp", onClick: onevone },
-  'Awesome Tanks 2': { imageUrl: "/assets/img/atanks2.webp", onClick: awesomeTanksTwo, height: 130 },
-  'Florr.io': { imageUrl: "/assets/img/florr.webp", onClick: florr },
-  'Krunker.io': { imageUrl: "/assets/img/krunker.webp", onClick: krunker },
   'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
   // Sport Games
   'Retro Bowl': { imageUrl: "/assets/img/retro.webp", onClick: rBowl },
