@@ -51,8 +51,6 @@ function addGms(name, imageUrl, onClickFunction, width, height) {
 }
 
 var gms = {
-  'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
-  // Sport Games
   'Retro Bowl': { imageUrl: "/assets/img/retro.webp", onClick: rBowl },
   'Retro Bowl College': { imageUrl: "https://i.ibb.co/H27wPsW/image.png", onClick: retrobowlcollege },
   'Basket Random': { imageUrl: "/assets/img/basketrandom.webp", onClick: basketRandom, height: 130 },
