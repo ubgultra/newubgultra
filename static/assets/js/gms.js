@@ -54,6 +54,7 @@ var gms = {
   'Time Shooter SWAT': { imageUrl: "/assets/img/time-shooter-3.webp", onClick: timeShooter3, height: 130 },
   // Sport Games
   'Retro Bowl': { imageUrl: "/assets/img/retro.webp", onClick: rBowl },
+  'Retro Bowl College': { imageUrl: "https://i.ibb.co/vcZ6dnJ/image.png", onClick: retrobowlcollege },
   'Basket Random': { imageUrl: "/assets/img/basketrandom.webp", onClick: basketRandom, height: 130 },
   'BasketBros.io': { imageUrl: "/assets/img/basketbros.webp", onClick: basketBros },
   // Ball/Platformer Games
@@ -75,6 +76,7 @@ var gms = {
   'Drift Hunters': { imageUrl: "/assets/img/drifthunters.webp", onClick: driftHunters },
   'Drive Mad': { imageUrl: "/assets/img/drive-mad.webp", onClick: driveMad },
   'Moto X3M': { imageUrl: "/assets/img/motox3m.webp", onClick: motoX3M },
+  'Snow Rider 3D': { imageUrl: "https://i.ibb.co/FbCvThz/image.png", onClick: snowRider },
   // Brain Games
   'Bitlife': { imageUrl: "/assets/img/bitlife.webp", onClick: bitlife, height: 130 },
   '2048 ': { imageUrl: "/assets/img/2048.webp", onClick: twoZeroFourEight, height: 130 },
