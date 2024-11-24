@@ -465,3 +465,7 @@ function badicecreamthree() {
 function retrobowlcollege() {
   openAg('https://ubgultra.vercel.app/assets/gms/retrobowlcollege.html');
 }
+
+function snowRider() {
+  openAg('https://www.hoodamath.com/mobile/games/snow-rider-3d/game.html?nocheckorient=1');
+}
