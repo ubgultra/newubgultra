@@ -83,12 +83,14 @@ var gms = {
   'Pokemon 2048': { imageUrl: "/assets/img/p2048.webp", onClick: p2048, height: 130 },
   'Chess.com': { imageUrl: "/assets/img/chess.webp", onClick: chess },
   'Watermelon Game (Suika)': { imageUrl: "/assets/img/suika.webp", onClick: suikaWatermelon, height: 130 },
+  'Block Blast': { imageUrl: "https://i.ibb.co/rmmnL6Q/image.png", onClick: blockBlast },  
   // Idle/Clicking Games
   'Doge Miner 2': { imageUrl: "/assets/img/doge-miner-2.webp", onClick: dogeMiner2 },
   'Cookie Clicker': { imageUrl: "/assets/img/cookieclicker.webp", onClick: cookieClicker },
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
+  'Worldbox 0.1': { imageUrl: "https://i.ibb.co/NN9C0pp/image.png", onClick: worldbox },  
   // 3kh0 games batch 1
   '1': { imageUrl: "https://i.ibb.co/W6Bx2vF/image.png", onClick: one },
   '10 minutes till dawn': { imageUrl: "https://i.ibb.co/mS5JYSr/6-KPt-OADP4q-Xnqcv-QKCHTTUb-TCm-Ut-QYj8wvs3-PNL1x-S70-O0tn-Xk-EZ0zm0-D3-Np-On-Qo2-Il-x5ce-Ae-Sps9-ZZ.png", onClick: tenminutes },
