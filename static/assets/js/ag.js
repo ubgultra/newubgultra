@@ -475,5 +475,5 @@ function blockBlast() {
 }
 
 function worldbox() {
-  openAg('https://ubgultra.vercel.app/assets/gms/worldbox.html');
+  window.location.href = "/assets/gms/worldbox.html";
 }
