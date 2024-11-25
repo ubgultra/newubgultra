@@ -485,3 +485,11 @@ function slicemaster() {
 function btd5() {
   window.location.href = "/assets/gms/btd5.html";
 }
+
+function btd4() {
+  window.location.href = "/assets/gms/btd4.html";
+}
+
+function geodash() {
+  window.location.href = "/assets/gms/geometrydash.html";
+}
