@@ -10,12 +10,15 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/script.js/2.0.2/script.min.js" integrity="sha512-UWtTDM6wtl/qutDD6i1JOGZGiEd92dveVzuLl8sMBkMHlOHcbZdexM7ZrUkeaugW7vhqDnWc2pPD/ohEV+BBbg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="/assets/js/anym.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6YEQ7Q0XRC"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-6YEQ7Q0XRC');
-    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G1D4JNB5QQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G1D4JNB5QQ');
+</script>
     <script>
         window.onload = function () {
             let encodedUrl = localStorage.getItem("encodedUrl");
@@ -36,13 +39,13 @@
             }
             var randomThreeDigitNumber = rndNum();
             var randomAlphanumericString = rndAbcString(5);
-            var url = "/student?auth=" + randomAlphanumericString;
-            var title = "Google Docs";
+            var url = "/search?anr=" + randomThreeDigitNumber;
+            var title = "Oops! UBG Ultra encountered a error!";
 
             history.pushState({}, title, url);
         };
     </script>
-    <title>UBG Ultra 4 | Loader</title>
+    <title>UBG Ultra 4 | Searching</title>
 </head>
 <body>
 <div id="urlBar">
