@@ -499,5 +499,5 @@ function sandboxels() {
 }
 
 function pvz() {
-  openAg('https://ubgultra.github.io/jobidev-files/gamefiles/pvz');
+  window.location.href = "/assets/gms/pvz.html";
 }
