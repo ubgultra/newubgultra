@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:56:31	6904/6904	---MCZ	200	added ('OK')	text/html	date:Wed,%2005%20Jun%202024%2013:31:22%20GMT	https://geometrygame.org/game/geometry-dash-lite/	C:/My%20Web%20Sites/gdlite-2/geometrygame.org/game/geometry-dash-lite/index.html	(from )
-15:56:32	69/69	---MCZ	200	added ('OK')	text/plain	etag:W/%2246-5f4a3d4b48440%22	https://geometrygame.org/robots.txt		(from )
