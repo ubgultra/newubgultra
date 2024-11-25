@@ -477,3 +477,7 @@ function blockBlast() {
 function worldbox() {
   window.location.href = "/assets/gms/worldbox.html";
 }
+
+function slicemaster() {
+  openAg('https://ubgultra.vercel.app/assets/gms/slicemaster.html');
+}
