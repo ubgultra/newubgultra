@@ -192,7 +192,7 @@ function jstris() {
 }
 
 function twoZeroFourEight() {
-  openAg('https://derpmandev.github.io/unblocked-games/2048', "2048");
+  openAg('https://ubgultra.github.io/3kh0-gms/2048', "2048");
 }
 
 function p2048() {
@@ -205,7 +205,7 @@ function rbx() {
 }
 
 function slope() {
-  openAg('https://derpmandev.github.io/unblocked-games/slope', "Slope");
+  openAg('https://ubgultra.github.io/3kh0-gms/slope', "Slope");
 }
 
 function subway() {
