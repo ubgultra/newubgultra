@@ -92,10 +92,12 @@ var gms = {
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
   'Bloons TD 4 Expansion': { imageUrl: "https://i.ibb.co/0rQPnfK/image.png", onClick: btd4 },
   'Bloons TD 5 (Beta)': { imageUrl: "https://i.ibb.co/tJycsX9/image.png", onClick: btd5 },
+  'Plants vs Zombies': { imageUrl: "https://i.ibb.co/6Dd1h7q/image.png", onClick: pvz },
   'Monkey Mart': { imageUrl: "https://i.ibb.co/PYDMwmt/image.png", onClick: monkeyMart },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
   'Worldbox 0.1': { imageUrl: "https://i.ibb.co/NN9C0pp/image.png", onClick: worldbox },  
+  'Sandboxels': { imageUrl: "https://i.ibb.co/RY9Fdd9/image.png", onClick: sandboxels },
   // 3kh0 games batch 1
   '1': { imageUrl: "https://i.ibb.co/W6Bx2vF/image.png", onClick: one },
   '10 minutes till dawn': { imageUrl: "https://i.ibb.co/mS5JYSr/6-KPt-OADP4q-Xnqcv-QKCHTTUb-TCm-Ut-QYj8wvs3-PNL1x-S70-O0tn-Xk-EZ0zm0-D3-Np-On-Qo2-Il-x5ce-Ae-Sps9-ZZ.png", onClick: tenminutes },
