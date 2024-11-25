@@ -295,7 +295,7 @@ function monkeyMart() {
 }
 
 function idleBreakout() {
-  openAg('https://html-classic.itch.zone/html/9150519/index.html');
+  window.location.href = "/assets/gms/idlebreakout.html"; // Replace with your desired URL
 }
 
 function motoX3M() {
