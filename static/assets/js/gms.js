@@ -73,6 +73,7 @@ var gms = {
   'Vex 8': { imageUrl: "/assets/img/vex8.webp", onClick: vex8 },
   'Tall Man Run': { imageUrl: "/assets/img/tall-man-run.webp", onClick: tallManRun },
   'Crowd Run 3D': { imageUrl: "/assets/img/crowd-run-3d.webp", onClick: crowdRun3d },
+  'Geometry Dash Lite': { imageUrl: "https://i.ibb.co/Bgrjy88/image.png", onClick: geodash },
   // Car/Racing Games
   'Drift Hunters': { imageUrl: "/assets/img/drifthunters.webp", onClick: driftHunters },
   'Drive Mad': { imageUrl: "/assets/img/drive-mad.webp", onClick: driveMad },
@@ -89,6 +90,7 @@ var gms = {
   'Doge Miner 2': { imageUrl: "/assets/img/doge-miner-2.webp", onClick: dogeMiner2 },
   'Cookie Clicker': { imageUrl: "/assets/img/cookieclicker.webp", onClick: cookieClicker },
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
+  'Bloons TD 4 Expansion': { imageUrl: "https://i.ibb.co/0rQPnfK/image.png", onClick: btd4 },
   'Bloons TD 5 (Beta)': { imageUrl: "https://i.ibb.co/tJycsX9/image.png", onClick: btd5 },
   'Monkey Mart': { imageUrl: "https://i.ibb.co/PYDMwmt/image.png", onClick: monkeyMart },
   // Sandbox/Arcade Games
