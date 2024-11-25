@@ -291,7 +291,7 @@ function eaglerCraft15() {
 }
 
 function monkeyMart() {
-  openAg('https://www.getgames.io/games/gm/MonkeyMart/index.html');
+  openAg('https://ubgultra.github.io/jobidev-files/gamefiles/monkeymart/');
 }
 
 function idleBreakout() {
