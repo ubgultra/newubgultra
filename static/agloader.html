@@ -7,12 +7,15 @@
     <script src="/assets/js/anym.js"></script>
     <script src="/assets/js/functions.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6YEQ7Q0XRC"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-6YEQ7Q0XRC');
-    </script>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G1D4JNB5QQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G1D4JNB5QQ');
+</script>
     <title>UBG Ultra 4 | Unblocker</title>
     <script>
         window.onload = function () {
@@ -44,7 +47,7 @@
             }
             var randomThreeDigitNumber = getRandomThreeDigitNumber();
             var randomAlphanumericString = getRandomAlphanumericString(15);
-            var url = "/lessons?pg=" + randomThreeDigitNumber + "#" + randomAlphanumericString;
+            var url = "/play?loader=" + randomFourDigitNumber;
             var title = "Google Docs";
             history.pushState({}, title, url);
         };
