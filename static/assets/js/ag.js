@@ -491,7 +491,7 @@ function btd4() {
 }
 
 function geodash() {
-  window.location.href = "/assets/gms/geometrydash.html";
+  openAg('https://ubgultra.vercel.app/assets/gms/geometrydash.html');
 }
 
 function sandboxels() {
