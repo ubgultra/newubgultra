@@ -89,6 +89,7 @@ var gms = {
   'Doge Miner 2': { imageUrl: "/assets/img/doge-miner-2.webp", onClick: dogeMiner2 },
   'Cookie Clicker': { imageUrl: "/assets/img/cookieclicker.webp", onClick: cookieClicker },
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
+  'Bloons TD 5 (Beta)': { imageUrl: "https://i.ibb.co/tJycsX9/image.png", onClick: btd5 },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
   'Worldbox 0.1': { imageUrl: "https://i.ibb.co/NN9C0pp/image.png", onClick: worldbox },  
