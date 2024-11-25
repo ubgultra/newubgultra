@@ -23,7 +23,7 @@
 .request-games-link {
     color: white;
     text-decoration: none;
-    padding: 1px 1px;
+    padding: 6px 4px;
     border: 1px solid white; /* Optional: add a border */
     border-radius: 5px; /* Optional: rounded corners */
     transition: background-color 0.3s, color 0.3s; /* Add transition for hover effect */
