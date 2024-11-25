@@ -90,6 +90,7 @@ var gms = {
   'Cookie Clicker': { imageUrl: "/assets/img/cookieclicker.webp", onClick: cookieClicker },
   'Idle Breakout': { imageUrl: "/assets/img/idlebreakout.webp", onClick: idleBreakout },
   'Bloons TD 5 (Beta)': { imageUrl: "https://i.ibb.co/tJycsX9/image.png", onClick: btd5 },
+  'Monkey Mart': { imageUrl: "hhttps://i.ibb.co/PYDMwmt/image.png", onClick: monkeyMart },
   // Sandbox/Arcade Games
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
   'Worldbox 0.1': { imageUrl: "https://i.ibb.co/NN9C0pp/image.png", onClick: worldbox },  
