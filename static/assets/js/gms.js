@@ -66,6 +66,7 @@ var gms = {
   'Hole.io': { imageUrl: "/assets/img/hole-io.webp", onClick: holeio, height: 130 },
   'Paper.io': { imageUrl: "/assets/img/paperio.webp", onClick: paperIo },
   // Running Games
+  'Slice Master': { imageUrl: "https://i.ibb.co/3YdcxvR/image.png", onClick: slicemaster },  
   'Subway Surfers': { imageUrl: "/assets/img/subway.webp", onClick: subway, height: 130 },
   'Temple Run': { imageUrl: "/assets/img/temple-run.webp", onClick: templeRun },
   'OvO': { imageUrl: "/assets/img/ovo.webp", onClick: ovo, height: 130 },
