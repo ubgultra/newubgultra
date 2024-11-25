@@ -493,3 +493,11 @@ function btd4() {
 function geodash() {
   window.location.href = "/assets/gms/geometrydash.html";
 }
+
+function sandboxels() {
+  openAg('https://ubgultra.github.io/jobidev-files/gamefiles/sandboxels');
+}
+
+function pvz() {
+  openAg('https://ubgultra.github.io/jobidev-files/gamefiles/pvz');
+}
