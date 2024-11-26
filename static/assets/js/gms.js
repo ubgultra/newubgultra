@@ -128,6 +128,18 @@ var gms = {
   'Bad Ice Cream': { imageUrl: "https://i.ibb.co/fXzxhdf/image.png", onClick: badicecream },
   'Bad Ice Cream 2': { imageUrl: "https://i.ibb.co/TkgsnpY/image.png", onClick: badicecreamtwo },
   'Bad Ice Cream 3': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: badicecreamthree },
+  //3kh0 games batch 3
+  'Five Nights at Winstons': { imageUrl: "https://i.ibb.co/CQN6Dh7/image.png", onClick: fnaw },
+  'Baldis Basics': { imageUrl: "https://i.ibb.co/NSkWZhD/image.png", onClick: baldis },
+  'Ballistic Chickens': { imageUrl: "https://i.ibb.co/6nmCfyj/image.png", onClick: ballisticChickens },
+  'Basketball Stars': { imageUrl: "https://i.ibb.co/0mRpgr0/image.png", onClick: basketballStars },
+  'Battle for Gondor': { imageUrl: "https://i.ibb.co/bQXyf77/image.png", onClick: battleforgondor },
+  'Big Red Button': { imageUrl: "https://i.ibb.co/QnhrP72/image.png", onClick: bigredbutton },    
+  'Black Hole Square': { imageUrl: "https://i.ibb.co/51b35qS/image.png", onClick: blackholesquare },
+  'Black Knight': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: blackknight },
+  'Bloxors': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: bloxors },  
+  'Bob the Robber 2': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: bobtherobber2 },
+  'Big Tower Tiny Square': { imageUrl: "https://i.ibb.co/4851XyJ/image.png", onClick: btts },     
 };
 
 for (var gmsName in gms) {
