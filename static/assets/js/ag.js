@@ -501,3 +501,11 @@ function sandboxels() {
 function pvz() {
   window.location.href = "/assets/gms/pvz.html";
 }
+
+function blackjack() {
+  openAg('https://ubgultra.vercel.app/assets/gms/blackjack.html');
+}
+
+function roulette() {
+  openAg('https://ubgultra.vercel.app/assets/gms/roulette.html');
+}
