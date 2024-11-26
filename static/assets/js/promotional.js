@@ -63,7 +63,7 @@ for (var appName in apps) {
       addApp(appName, imageUrl, onClick, width, height);
       fetchMessage.style.display = 'none';
     } catch (error) {
-      fetchMessage.innerText = 'Failed to load, please refresh.';
+      fetchMessage.innerText = 'Loading has encountered a error. Please refresh!';
     }
   }
 }
