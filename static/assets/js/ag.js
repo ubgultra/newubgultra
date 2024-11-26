@@ -506,7 +506,7 @@ function roulette() {
 }
 
 function fnaw() {
-  window.location.href = "/assets/gms/FNAW.html";
+  window.location.href = "/assets/gms/fnaw.html";
 }
 
 function baldis() {
