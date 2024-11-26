@@ -200,8 +200,7 @@ function p2048() {
 }
 
 function rbx() {
-  alert(`Warning: In order to access the site, you will have to bypass their proxy detection. You can do this by continuously refreshing the page until it loads. (Don't reload too quickly)\n\nThis can take from 1-10 tries to 30-50 tries.`);
-  openAg('https://now.derpman.lol', "Roblox");
+  window.location.href = "/assets/gms/roblox.html"; // Replace with your desired URL
 }
 
 function slope() {
