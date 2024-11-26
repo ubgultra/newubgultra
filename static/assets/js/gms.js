@@ -74,6 +74,9 @@ var gms = {
   'Tall Man Run': { imageUrl: "/assets/img/tall-man-run.webp", onClick: tallManRun },
   'Crowd Run 3D': { imageUrl: "/assets/img/crowd-run-3d.webp", onClick: crowdRun3d },
   'Geometry Dash Lite': { imageUrl: "https://i.ibb.co/Bgrjy88/image.png", onClick: geodash },
+  // Gambling
+  'Blackjack': { imageUrl: "https://i.ibb.co/2WZgkhr/image.png", onClick: blackjack },
+  'Roulette Gambling Simulator': { imageUrl: "https://i.ibb.co/ZxfwVsw/image.png", onClick: roulette },
   // Car/Racing Games
   'Drift Hunters': { imageUrl: "/assets/img/drifthunters.webp", onClick: driftHunters },
   'Drive Mad': { imageUrl: "/assets/img/drive-mad.webp", onClick: driveMad },
