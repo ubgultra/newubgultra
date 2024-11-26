@@ -301,10 +301,6 @@ function motoX3M() {
   openAg('https://www.coolmathgames.com/0-moto-x3m/play');
 }
 
-function basketRandom() {
-  openAg('https://files.twoplayergames.org/files/games/other/Basket_Random/index.html');
-}
-
 function suikaWatermelon() {
   openAg('https://watermelongame.com');
 }
@@ -507,4 +503,52 @@ function blackjack() {
 
 function roulette() {
   openAg('https://ubgultra.vercel.app/assets/gms/roulette.html');
+}
+
+function fnaw() {
+  window.location.href = "/assets/gms/FNAW.html";
+}
+
+function baldis() {
+  window.location.href = "/assets/gms/baldis-basics.html";
+}
+
+function ballisticChickens() {
+  openAg('https://ubgultra.github.io/3kh0-gms/ballistic-chickens/');
+}
+
+function basketRandom() {
+  openAg('https://ubgultra.github.io/3kh0-gms/basket-random/');  
+}
+
+function basketballStars() {
+  openAg('https://ubgultra.github.io/3kh0-gms/basketball-stars/'); 
+}
+
+function battleforgondor() {
+  window.location.href = "/assets/gms/battleforgondor.html";
+}
+
+function bigredbutton() {
+  window.location.href = "/assets/gms/bigredbutton.html";  
+}
+
+function blackholesquare() {
+  openAg('https://ubgultra.github.io/3kh0-gms/blacholesquare/');  
+}
+
+function blackknight() {
+  window.location.href = "/assets/gms/blackknight.html";  
+}
+
+function bloxors() {
+  window.location.href = "/assets/gms/bloxors.html";  
+}
+
+function bobtherobber2() {
+  openAg('https://ubgultra.github.io/3kh0-gms/bobtherobber2/');  
+}
+
+function btts() {
+  openAg('https://ubgultra.github.io/3kh0-gms/btts/');  
 }
