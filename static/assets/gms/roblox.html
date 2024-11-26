@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slice Master</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            overflow: hidden; /* Prevent scrolling when iframe is fullscreen */
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        h1, p {
+            color: #fff; /* Solid white text color */
+            text-align: center;
+            transition: opacity 0.5s; /* Smooth transition for hiding text */
+        }
+        .button {
+            padding: 15px 30px;
+            font-size: 18px;
+            color: white; /* Text color is solid white */
+            background-color: #A77BCA; /* Solid light purple background */
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+            display: block;
+            margin: 20px auto;
+            opacity: 1; /* Ensure the button is fully opaque */
+        }  
+        .button:hover {
+            background-color: #8A5B9B; /* Darker purple on hover */
+            transform: scale(1.05); /* Slightly enlarge button on hover */
+        }
+        footer {
+            position: fixed; /* Fixed position at the bottom */
+            bottom: 0; /* Align to the bottom */
+            left: 0;
+            width: 100%; /* Full width */
+            color: #fff; /* White text for better contrast */
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+            padding: 10px 15px; /* Padding for better spacing */
+            z-index: 1000; /* High z-index to stay on top */
+            transition: opacity 0.5s; /* Smooth transition for hiding footer */
+        }
+    </style>
+    <script src="/uv/uv.bundle.js"></script>
+  <script src="/uv/uv.config.js"></script>
+  <script src="/assets/js/ag.js"></script>
+  <script src="/assets/js/gms.js"></script>
+</head>
+<body>
+    <div id="particles-js"></div> <!-- Particle background -->
+    
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="/assets/js/constellation.js"></script>
+
+    <h1 id="title">Welcome to Roblox</h1>
+    <p id="description">THIS GAME IS EXPERIMENTAL. IF THERE IS A ISSUE WITH THIS GAME PLEASE REPORT IT. Happy gaming!</p>
+    
+    <button class="button" id="playButton">Play Now</button>
+    
+    <footer id="footer">©2024 UBG Ultra</footer>
+
+    <script>
+        document.getElementById('playButton').addEventListener('click', function() {
+            const title = document.getElementById('title');
+            const description = document.getElementById('description');
+            const footer = document.getElementById('footer');
+
+            // Hide the title, description, and footer
+            title.style.opacity = '0';
+            description.style.opacity = '0';
+            footer.style.opacity = '0';
+            setTimeout(() => {
+                title.style.display = 'none';
+                description.style.display = 'none';
+                footer.style.display = 'none';
+            }, 500); // Wait for the transition to finish
+
+            // Show alert and call the function
+            alert('Called Javascript, waiting for response...');
+            openAg('https://mathsspot.com/'); // Call your custom function here
+            alert('Response recieved, game starting.');
+            alert('Now.GG bypass by UBGUltra');
+        });
+    </script>
+</body>
+</html>
