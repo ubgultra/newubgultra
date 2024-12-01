@@ -139,11 +139,7 @@ var gms = {
   'Black Knight': { imageUrl: "https://i.ibb.co/m4nSQCs/image.png", onClick: blackknight },
   'Bloxors': { imageUrl: "https://i.ibb.co/0YBZ0VV/image.png", onClick: bloxors },  
   'Bob the Robber 2': { imageUrl: "https://i.ibb.co/72B1vkD/image.png", onClick: bobtherobber2 },
-  'Big Tower Tiny Square': { imageUrl: "https://i.ibb.co/kQzrmQW/image.png", onClick: btts },  
-  //RG
-  'We become what we behold': { imageUrl: "https://i.ibb.co/xFbMk57/image.png", onClick: wbwwb },
-  'LostGamer.io': { imageUrl: "https://i.ibb.co/s3TVxzb/image.png", onClick: lostgamer },
-  'Oregon Trail': { imageUrl: "https://i.ibb.co/BPWkc2h/image.png", onClick: oregontrail },  
+  'Big Tower Tiny Square': { imageUrl: "https://i.ibb.co/kQzrmQW/image.png", onClick: btts },    
 };
 
 for (var gmsName in gms) {
