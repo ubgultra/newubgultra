@@ -552,3 +552,11 @@ function bobtherobber2() {
 function btts() {
   openAg('https://ubgultra.github.io/3kh0-gms/btts/');  
 }
+
+function wbwwb() {
+  openAg('https://html-classic.itch.zone/html/300364/index.html?v=1542781840');  
+}
+
+function lostgamer() {
+  openAg('https://lostgamer.io/singleplayer');  
+}
