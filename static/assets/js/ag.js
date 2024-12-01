@@ -560,3 +560,7 @@ function wbwwb() {
 function lostgamer() {
   openAg('https://lostgamer.io/singleplayer');  
 }
+
+function oregontrail() {
+  openAg('https://oregontrail.ws/games/the-oregon-trail/play/');  
+}
