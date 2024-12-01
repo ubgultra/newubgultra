@@ -142,7 +142,8 @@ var gms = {
   'Big Tower Tiny Square': { imageUrl: "https://i.ibb.co/kQzrmQW/image.png", onClick: btts },  
   //RG
   'We become what we behold': { imageUrl: "https://i.ibb.co/xFbMk57/image.png", onClick: wbwwb },
-  'LostGamer.io': { imageUrl: "https://i.ibb.co/s3TVxzb/image.png", onClick: lostgamer },      
+  'LostGamer.io': { imageUrl: "https://i.ibb.co/s3TVxzb/image.png", onClick: lostgamer },
+  'Oregon Trail': { imageUrl: "https://i.ibb.co/BPWkc2h/image.png", onClick: oregontrail },  
 };
 
 for (var gmsName in gms) {
