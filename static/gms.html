@@ -27,7 +27,34 @@
         <a href="/"><img src="https://i.ibb.co/HPWb2sJ/ubgultraavatar-do-not-delete.png" alt="Logo" class="logo"></a>
         
         <div class="middle-text">Go to the track page (on footer) to see all bug reports, fix alerts, and more</div>
-        
+<script>
+    // List of texts to choose from
+    const texts = [
+      "Go to the track page (on footer) to see all bug reports, fix alerts, and more",
+      "Working on fixing issues 🔧",
+      "Click me to change the text",
+      "When the banner is removed, access roblox from the main page",
+      "Today is Monday, December 2nd, 2024"
+    ];
+
+    // Get the element that will display the text
+    const textElement = document.getElementById("bannerText");
+
+    // Function to pick a random text from the list
+    function getRandomText() {
+      const randomIndex = Math.floor(Math.random() * texts.length);
+      return texts[randomIndex];
+    }
+
+    // Set the initial text when the page loads
+    textElement.textContent = getRandomText();
+
+    // Add an event listener to change the text when clicked
+    textElement.addEventListener("click", function() {
+      textElement.textContent = getRandomText();
+    });
+    </script>
+       
         <div class="nav-links">
             <a href="/gms" class="active">Games</a>
             <a href="/apps">Apps</a>
