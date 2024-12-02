@@ -462,7 +462,7 @@ function retrobowlcollege() {
 }
 
 function snowRider() {
-  openAg('https://www.hoodamath.com/mobile/games/snow-rider-3d/game.html?nocheckorient=1');
+  window.location.href = "/assets/gms/snowrider.html"; // Replace with your desired URL
 }
 
 function blockBlast() {
