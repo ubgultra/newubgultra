@@ -580,3 +580,7 @@ function fnaf3() {
 function fnaf4() {
   window.location.href = "/assets/gms/fnaf4.html";  
 }
+
+function fnafucn() {
+  window.location.href = "/assets/gms/fnafucn.html";  
+}
