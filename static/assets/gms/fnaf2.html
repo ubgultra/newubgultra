@@ -72,35 +72,42 @@
 <body>
 
     <h1 id="title">Welcome to Five Night's At Freddy's 2</h1>
-    <p id="description">Get ready to face a new wave of terror as a security guard at the rebuilt Freddy Fazbear's Pizza, where the old animatronics have been joined by a new cast of deadly characters, including the Marionette and the twisted Toy animatronics. With new security systems and a fresh coat of paint, the restaurant may look safer, but the horrors that lurk in the shadows are more sinister than ever. Can you survive the night shift and uncover the dark secrets behind the restaurant's gruesome past? Happy gaming!</p>
+    <p id="description">Get ready to face a new wave of terror as a security guard at the rebuilt Freddy Fazbear's Pizza, where the old animatronics have been joined by a new cast of deadly characters, including the Marionette and the twisted Toy animatronics. With new security systems and a fresh coat of paint, the restaurant may look safer, but the horrors that lurk in the shadows are more sinister than ever. Can you survive the night shift and uncover the dark secrets behind the restaurant's gruesome past? Happy gaming!<p>Hold ctrl while pressing the button to enable cheats😉</p></p>
     
-    <button class="button" id="playButton">Play Now</button>
-    
-    <iframe id="gameFrame" src="http://ubgultra.github.io/fnaf2"></iframe>
-    
-    <footer id="footer">©2024 UBG Ultra</footer>
+<body>
+
+    <button class=button id="openIframeButton">Play Now</button>
+    <iframe id="fullscreenIframe" class="fullscreen-iframe"></iframe>
 
     <script>
-        document.getElementById('playButton').addEventListener('click', function() {
-            const iframe = document.getElementById('gameFrame');
-            const title = document.getElementById('title');
-            const description = document.getElementById('description');
-            const footer = document.getElementById('footer');
+        const button = document.getElementById('openIframeButton');
+        const iframe = document.getElementById('fullscreenIframe');
 
-            // Hide the title, description, and footer
-            title.style.opacity = '0';
-            description.style.opacity = '0';
-            footer.style.opacity = '0';
-            setTimeout(() => {
-                title.style.display = 'none';
-                description.style.display = 'none';
-                footer.style.display = 'none';
-            }, 500); // Wait for the transition to finish
+        button.addEventListener('click', (event) => {
+            // Check if the Shift key is held down
+            const isShiftPressed = event.ctrlKey;
+
+            // Set the iframe source based on whether Ctrl is pressed
+            if (isShiftPressed) {
+                iframe.src = 'https://ubgultra.github.io/fnaf2-hacks'; // Change to your alternative page URL
+            } else {
+                iframe.src = 'https://ubgultra.github.io/fnaf2'; // Change to your main page URL
+            }
 
             // Show the iframe
             iframe.style.display = 'block';
+
+            // Optionally, you can add a close button or functionality to close the iframe
+            iframe.onload = () => {
+                // Close the iframe when clicking outside of it
+                iframe.contentWindow.document.body.addEventListener('click', () => {
+                    iframe.style.display = 'none';
+                    iframe.src = ''; // Clear the src to stop loading
+                });
+            };
         });
     </script>
 
 </body>
+
 </html>
