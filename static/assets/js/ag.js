@@ -564,3 +564,19 @@ function lostgamer() {
 function oregontrail() {
   openAg('https://oregontrail.ws/games/the-oregon-trail/play/');  
 }
+
+function fnaf1() {
+  window.location.href = "/assets/gms/fnaf1.html";  
+}
+
+function fnaf2() {
+  window.location.href = "/assets/gms/fnaf2.html";  
+}
+
+function fnaf3() {
+  window.location.href = "/assets/gms/fnaf3.html";  
+}
+
+function fnaf4() {
+  window.location.href = "/assets/gms/fnaf4.html";  
+}
