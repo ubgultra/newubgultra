@@ -584,3 +584,7 @@ function fnaf4() {
 function fnafucn() {
   window.location.href = "/assets/gms/fnafucn.html";  
 }
+
+function uncube() {
+  window.location.href = "/assets/gms/uncube.html"; // Replace with your desired URL
+}
