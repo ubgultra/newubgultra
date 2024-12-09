@@ -143,6 +143,11 @@ var gms = {
   'We become what we behold': { imageUrl: "https://i.ibb.co/xFbMk57/image.png", onClick: wbwwb },
   'LostGamer.io': { imageUrl: "https://i.ibb.co/s3TVxzb/image.png", onClick: lostgamer }, 
   'Oregon Trail': { imageUrl: "https://i.ibb.co/BPWkc2h/image.png", onClick: oregontrail },
+  'Five Nights at Freddys': { imageUrl: "https://i.ibb.co/CzDVxzn/image.png", onClick: fnaf1 },
+  'Five Nights at Freddys 2': { imageUrl: "https://i.ibb.co/FBn7X07/image.png", onClick: fnaf2 },
+  'Five Nights at Freddys 3': { imageUrl: "https://i.ibb.co/rQRZjTz/image.png", onClick: fnaf3 }, 
+  'Five Nights at Freddys 4': { imageUrl: "https://i.ibb.co/hmjXWxH/image.png", onClick: fnaf4 },
+  'Five Nights at Freddys: UCN': { imageUrl: "https://i.ibb.co/4KPTY70/image.png", onClick: fnafucn },
 };
 
 for (var gmsName in gms) {
