@@ -148,6 +148,7 @@ var gms = {
   'Five Nights at Freddys 3': { imageUrl: "https://i.ibb.co/rQRZjTz/image.png", onClick: fnaf3 }, 
   'Five Nights at Freddys 4': { imageUrl: "https://i.ibb.co/hmjXWxH/image.png", onClick: fnaf4 },
   'Five Nights at Freddys: UCN': { imageUrl: "https://i.ibb.co/4KPTY70/image.png", onClick: fnafucn },
+  'Uncube App Launcher': { imageUrl: "https://i.ibb.co/F8j96Yk/image.png", onClick: uncube },
 };
 
 for (var gmsName in gms) {
