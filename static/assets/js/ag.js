@@ -588,3 +588,7 @@ function fnafucn() {
 function uncube() {
   window.location.href = "/assets/gms/uncube.html"; // Replace with your desired URL
 }
+
+function forgeOE() {
+  openAg('https://en-play.forgeofempires.com/?ref=igcom');  
+}
